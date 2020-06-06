@@ -2,7 +2,7 @@
 using namespace std;
 
 int x, pares;
- 
+
 int main () {
     for (int i = 0; i < 5; i++) {
         scanf("%d", &x);
