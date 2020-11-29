@@ -13,7 +13,6 @@ int main () {
         resultadoparcial = (p * 1000.0) / g;
 
         respostafinal = min(respostafinal, resultadoparcial);
-
     }
     
     printf("%.2lf\n", respostafinal);
