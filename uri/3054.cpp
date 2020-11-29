@@ -16,7 +16,6 @@ int main() {
 
     } else if (posicao == 'C') {
         c = 1;
-
     }
 
     for (int i = 0; i < n; i++) {
